@@ -1,2 +1,5 @@
 # Engineer-Information-Security-Prep-in-Container
-Tired of VirtualBox boot-camps and 4GB ISO headaches? Say hello to containerized prep! 
+
+This project sets up a **lightweight Ubuntu container lab** for practicing Linux fundamentals and security-related command-line skills — tailored for the **정보보안기사 (Engineer Information Security)** certification.
+
+## 
