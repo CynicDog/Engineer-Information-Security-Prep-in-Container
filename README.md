@@ -1,4 +1,4 @@
-# Jeongbogi-Prep-in-Container (Engineer Information Security Prep in Container)
+# Jeongbogi Prep in Container 
 
 **Jeongbogi** is a **syllabic acronym** commonly used in Korean, short for **정보보안기사** (*Engineer: Information Security*) — a national certification exam covering Linux, cybersecurity, and systems administration.
 
